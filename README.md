@@ -10,15 +10,15 @@ O link para análise dos algoritmos explorados está disponível num ficheiro no
 
 **Exemplos PowerShell (Windows) :**
 
-	`'NONSONEONS' | python .\pokemons.py`
+`'NONSONEONS' | python .\pokemons.py`
 
-	`cat input_path.txt | python .\pokemons.py`
+`cat input_path.txt | python .\pokemons.py`
 
 **Exemplos Terminal (Unix) :**
 
-	`echo NONSONEONS | python pokemons.py`
+`echo NONSONEONS | python pokemons.py`
 
-	`cat input_path.txt | python pokemons.py`
+`cat input_path.txt | python pokemons.py`
 
 ### Requerimento
 
